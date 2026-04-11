@@ -29,10 +29,15 @@ This repository contains **6 comprehensive experiments** for ship segmentation i
 
 ##  Repository Structure
 ── train_ship_detection_experiment_01_baseline_unet.ipynb
+
 ── train_ship_detection_experiment_02_unet_strong_augmentation.ipynb
+
 ── train_ship_detection_experiment_03_unet_augmented_training.ipynb
+
 ── train_ship_detection_experiment_04_unet_tuned_augmentation.ipynb
+
 ── train_ship_detection_experiment_05_unet_optimized_augementation.ipynb
+
 ── train_ship_detection_experiment_06_ with_skelton_and_dual_head_Unet.ipynb
 
 
