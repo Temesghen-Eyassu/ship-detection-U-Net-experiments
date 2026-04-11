@@ -55,7 +55,7 @@ This repository contains **6 comprehensive experiments** for ship segmentation i
 - Commercial shipping tracking
 
 ## Future Work
-- Integration with YOLO for detection
+
 - Real-time inference pipeline
 - Multi-class ship classification
 - Transfer learning from pre-trained models
