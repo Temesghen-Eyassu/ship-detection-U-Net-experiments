@@ -68,27 +68,27 @@ cd ship-detection-U-Net-experiments
 pip install torch torchvision numpy matplotlib opencv-python albumentations rasterio scipy
 
 ### 3️ Run Experiments
-Open any notebook inside src/
-Run cells sequentially
-Compare results across experiments
+- Open any notebook inside src/
+- Run cells sequentially
+- Compare results across experiments
 
 ## Applications
-Maritime surveillance
-Automatic ship detection in SAR imagery
-Coastal monitoring systems
-Defense and naval intelligence
-Commercial shipping analytics
+- Maritime surveillance
+- Automatic ship detection in SAR imagery
+- Coastal monitoring systems
+- Defense and naval intelligence
+- Commercial shipping analytics
 
 ## Future Work
-Real-time inference pipeline
-Multi-class ship classification
-Transformer-based segmentation models
-Transfer learning from pre-trained SAR models
+- Real-time inference pipeline
+- Multi-class ship classification
+- Transformer-based segmentation models
+- Transfer learning from pre-trained SAR models
 
 ## Course Information
-Course: GEO-OMA24
-Topic: Ship Detection in SAR Images
-Institution: EAGLE Program
+- Course: GEO-OMA24
+- Topic: Ship Detection in SAR Images
+- Institution: EAGLE Program
 
 ## Author
 Name: Temesghen Eyassu
