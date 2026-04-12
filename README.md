@@ -75,37 +75,40 @@ ship-detection-U-Net-experiments/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
 ```bash
 git clone https://github.com/Temesghen-Eyassu/ship-detection-U-Net-experiments.git
 cd ship-detection-U-Net-experiments
-2️⃣ Install Dependencies
+2️ Install Dependencies
 pip install torch torchvision numpy matplotlib opencv-python albumentations rasterio scipy
 
-3️⃣ Run Experiments
+3️ Run Experiments
 Open any notebook inside src/
 Run cells sequentially
 Compare results across experiments
-📈 Applications
+
+Applications
 Maritime surveillance
 Automatic ship detection in SAR imagery
 Coastal monitoring systems
 Defense and naval intelligence
 Commercial shipping analytics
-🔮 Future Work
+
+Future Work
 Real-time inference pipeline
 Multi-class ship classification
 Transformer-based segmentation models
 Transfer learning from pre-trained SAR models
-📝 Course Information
+
+Course Information
 Course: GEO-OMA24
 Topic: Ship Detection in SAR Images
 Institution: EAGLE Program
-👤 Author
 
+Author
 Name: Temesghen Eyassu
 GitHub: Temesghen-Eyassu
 
