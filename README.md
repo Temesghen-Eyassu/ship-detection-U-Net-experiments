@@ -54,35 +54,7 @@ metrics/metrics_summary_all_experiments.jpg
 
 ship-detection-U-Net-experiments/
 
-│
-├── src/
-
-│ ├── experiment_01_baseline_unet.ipynb
-
-│ ├── experiment_02_strong_augmentation.ipynb
-
-│ ├── experiment_03_augmented_training.ipynb
-
-│ ├── experiment_04_tuned_augmentation.ipynb
-
-│ ├── experiment_05_optimized_augmentation.ipynb
-
-│ └── experiment_06_dual_head_unet.ipynb
-│
-├── metrics/
-
-│ └── metrics_summary_all_experiments.jpg
-│
-├── data/
-
-│ └── Patches/
-│
-├── pyproject.toml
-
-├── README.md
-
-└── requirements.txt (optional)
-
+![Image](https://github.com/user-attachments/assets/096234b6-ca43-4a54-b443-fa2858f4aaf8)
 
 
 
