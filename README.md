@@ -52,8 +52,6 @@ metrics/metrics_summary_all_experiments.jpg
 ##  Repository Structure
 
 
-ship-detection-U-Net-experiments/
-
 ![Image](https://github.com/user-attachments/assets/096234b6-ca43-4a54-b443-fa2858f4aaf8)
 
 
@@ -63,7 +61,9 @@ ship-detection-U-Net-experiments/
 ### 1️ Clone Repository
 
 git clone https://github.com/Temesghen-Eyassu/ship-detection-U-Net-experiments.git
+
 cd ship-detection-U-Net-experiments
+
 ### 2️ Install Dependencies
 pip install torch torchvision numpy matplotlib opencv-python albumentations rasterio scipy
 
