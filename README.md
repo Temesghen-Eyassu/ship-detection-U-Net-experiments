@@ -62,7 +62,6 @@ ship-detection-U-Net-experiments/
 
 ### 1️ Clone Repository
 
-```bash
 git clone https://github.com/Temesghen-Eyassu/ship-detection-U-Net-experiments.git
 cd ship-detection-U-Net-experiments
 ### 2️ Install Dependencies
