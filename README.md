@@ -55,25 +55,35 @@ metrics/metrics_summary_all_experiments.jpg
 ship-detection-U-Net-experiments/
 │
 ├── src/
+
 │ ├── experiment_01_baseline_unet.ipynb
+
 │ ├── experiment_02_strong_augmentation.ipynb
+
 │ ├── experiment_03_augmented_training.ipynb
+
 │ ├── experiment_04_tuned_augmentation.ipynb
+
 │ ├── experiment_05_optimized_augmentation.ipynb
+
 │ └── experiment_06_dual_head_unet.ipynb
 │
 ├── metrics/
+
 │ └── metrics_summary_all_experiments.jpg
 │
 ├── data/
+
 │ └── Patches/
 │
 ├── pyproject.toml
+
 ├── README.md
+
 └── requirements.txt (optional)
 
 
----
+
 
 ##  Getting Started
 
@@ -82,33 +92,33 @@ ship-detection-U-Net-experiments/
 ```bash
 git clone https://github.com/Temesghen-Eyassu/ship-detection-U-Net-experiments.git
 cd ship-detection-U-Net-experiments
-2️ Install Dependencies
+### 2️ Install Dependencies
 pip install torch torchvision numpy matplotlib opencv-python albumentations rasterio scipy
 
-3️ Run Experiments
+### 3️ Run Experiments
 Open any notebook inside src/
 Run cells sequentially
 Compare results across experiments
 
-Applications
+## Applications
 Maritime surveillance
 Automatic ship detection in SAR imagery
 Coastal monitoring systems
 Defense and naval intelligence
 Commercial shipping analytics
 
-Future Work
+## Future Work
 Real-time inference pipeline
 Multi-class ship classification
 Transformer-based segmentation models
 Transfer learning from pre-trained SAR models
 
-Course Information
+## Course Information
 Course: GEO-OMA24
 Topic: Ship Detection in SAR Images
 Institution: EAGLE Program
 
-Author
+## Author
 Name: Temesghen Eyassu
 GitHub: Temesghen-Eyassu
 
