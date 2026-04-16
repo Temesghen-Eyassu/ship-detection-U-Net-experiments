@@ -68,7 +68,7 @@ cd ship-detection-U-Net-experiments
 pip install torch torchvision numpy matplotlib opencv-python albumentations rasterio scipy
 
 ### 3️ Run Experiments
-- Open any notebook inside src/
+- Open any notebook script inside src/
 - Run cells sequentially
 - Compare results across experiments
 
@@ -92,6 +92,7 @@ pip install torch torchvision numpy matplotlib opencv-python albumentations rast
 
 ## Author
 Name: Temesghen Eyassu
+
 GitHub: Temesghen-Eyassu
 
 Project: ship-detection-U-Net-experiments
